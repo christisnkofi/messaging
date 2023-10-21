@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419647799677",
+    "project_id": "messaging-f7ed0",
+    "storage_bucket": "messaging-f7ed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419647799677:android:cc422ab9698b1b94a5cc14",
+        "android_client_info": {
+          "package_name": "com.amegbor.messaging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAch2r_VvkXeLbw9sO1SVkSHWq9nihAyGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
